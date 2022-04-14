@@ -13,7 +13,10 @@ So Lets find out if the shootings were racial bias or no.
 
 ## About the data
 
-The file `fatal-police-shootings-data.csv` contains data about each fatal shooting in CSV format. The data contains approximately 7.2k rows and 17 features, out of which not all of them are used in the analysis. The file can be [downloaded at this URL](https://raw.githubusercontent.com/washingtonpost/data-police-shootings/master/fatal-police-shootings-data.csv). Each row has the following variables:
+The file `fatal-police-shootings-data.csv` contains data about each fatal shooting in CSV format. The data contains approximately 7.2k rows and 17 features, out of which not all of them are used in the analysis. The file can be  https://data.world/data-society/fatal-police-shootings
+https://github.com/washingtonpost/data-police-shootings / https://raw.githubusercontent.com/washingtonpost/data-police-shootings/master/fatal-police-shootings-data.csv). 
+
+Each row has the following variables:
 
 `id`: a unique identifier for each victim
 
@@ -34,6 +37,8 @@ The `Race` feature represents
 4. W -> White
 5. N -> Native
 6. O -> Others
+
+For State abbreviations - https://www.scouting.org/resources/los/states/
 
 ## About the Classification Problem.
 
