@@ -13,8 +13,8 @@ So Lets find out if the shootings were racial bias or no.
 
 ## About the data
 
-The file `fatal-police-shootings-data.csv` contains data about each fatal shooting in CSV format. The data contains approximately 7.2k rows and 17 features, out of which not all of them are used in the analysis. The file can be  https://data.world/data-society/fatal-police-shootings
-https://github.com/washingtonpost/data-police-shootings / https://raw.githubusercontent.com/washingtonpost/data-police-shootings/master/fatal-police-shootings-data.csv). 
+The file `fatal-police-shootings-data.csv` contains data about each fatal shooting in CSV format. The data contains approximately 7.2k rows and 17 features, out of which not all of them are used in the analysis. The file can be  https://data.world/data-society/fatal-police-shootings OR
+https://github.com/washingtonpost/data-police-shootings
 
 Each row has the following variables:
 
