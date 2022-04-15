@@ -1,4 +1,4 @@
-# Fatal Shootings Data from Washington Post Survey
+# Fatal Shootings Data Analysis from Washington Post Survey
 The Washington Post's database contains records of every fatal shooting in the United States by a police officer in the line of duty since Jan. 1, 2015.
 
 This data includes  the race of the deaths,  the different scenarios in which the shoots took place, if or not the person was armed  or faced a mental-health crisis.
