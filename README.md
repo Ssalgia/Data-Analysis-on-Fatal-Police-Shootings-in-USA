@@ -13,6 +13,8 @@ So Lets find out if the shootings were racial bias or no.
 
 ## About the data
 
+Parts of the data description have been taken from (https://github.com/washingtonpost/data-police-shootings) Readme File.
+
 The file `fatal-police-shootings-data.csv` contains data about each fatal shooting in CSV format. The data contains approximately 7.2k rows and 17 features, out of which not all of them are used in the analysis. The file can be  https://data.world/data-society/fatal-police-shootings OR
 https://github.com/washingtonpost/data-police-shootings
 
@@ -21,10 +23,13 @@ Each row has the following variables:
 `id`: a unique identifier for each victim
 
  The `threat column` and the `fleeing column` are not necessarily related.
+ 
+ `Flee column` has 3 categories -> Car, Foot and Not Fleeing. The Data Analysis answers the questions as to which of the following modes has the highest frquency amaong the victims.
 
 `body_camera`: News reports have indicated an officer was wearing a body camera and it may have recorded some portion of the incident.
 
-`latitude` and `longitude`: the location of the shooting expressed as WGS84 coordinates, geocoded from addresses. The coordinates are rounded to 3 decimal places, meaning they have a precision of about 80-100 meters within the contiguous U.S.
+`latitude` and `longitude`: the location of the shooting expressed as coordinates, geocoded from addresses. The coordinates are rounded to 3 decimal places, meaning they have a precision of about 80-100 meters within the contiguous U.S. 
+
 
 `is_geocoding_exact`: reflects the accuracy of the coordinates. `true` means that the coordinates are for the location of the shooting (within approximately 100 meters), while `false` means that coordinates are for the centroid of a larger region, such as the city or county where the shooting happened.
 
